@@ -87,8 +87,6 @@ The application is live and accessible at:
 ### **Resume Section**
 <img src="./images/DeployedResume.png" alt="Resume" width="400"/>
 
-*(Replace `#` with actual image paths or links)*
-
 ---
 
 ## License
