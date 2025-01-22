@@ -1,0 +1,22 @@
+/* AboutMe Styling */
+
+.about-me-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.about-me-avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 30px;
+    margin-bottom: 20px;
+}
+
+.about-me-bio {
+    max-width: 975px;
+    margin: 30px;
+    line-height: 1.6;
+    text-align: left;
+    font-family: "Lora", serif;
+}

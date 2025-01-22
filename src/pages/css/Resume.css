@@ -1,0 +1,45 @@
+
+.resume-download {
+    display: inline-block;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    color: #bbdefb;
+    text-decoration: none;
+    margin: 30px;
+    font-family: "Lora", serif;
+}
+
+.resume-download:hover {
+    text-decoration: underline;
+}
+
+.proficiencies {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin: 30px;
+}
+
+.proficiency-section {
+    text-align: left;
+    width: 40%;
+}
+
+.proficiency-section h2 {
+    font-size: 1.8rem;
+    border-bottom: 2px solid #bbdefb;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    font-family: "Montserrat", serif;
+}
+
+.proficiency-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.proficiency-section ul li {
+    font-size: 1.2rem;
+    margin: 5px 0;
+    font-family: "Lora", serif;
+}
