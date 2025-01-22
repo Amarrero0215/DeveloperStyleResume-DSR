@@ -69,23 +69,23 @@ To run this project locally:
 ## Deployment
 
 The application is live and accessible at:
-[Netlify Deployment URL](#) *(Replace with the actual URL after deployment)*
+[Netlify Deployment URL](https://6790c0e314f0aa4470f6d858--inspiring-queijadas-f0a255.netlify.app/)
 
 ---
 
 ## Screenshots
 
 ### **About Me Section**
-![About Me Screenshot](#)
+<img src="./images/DeployedAboutme.png" alt="AboutMe" width="400"/>
 
 ### **Portfolio Section**
-![Portfolio Screenshot](#)
+<img src="./images/DeployedPortfolio.png" alt="Portfolio" width="400"/>
 
 ### **Contact Section**
-![Contact Screenshot](#)
+<img src="./images/DeployedContact.png" alt="Contact" width="400"/>
 
 ### **Resume Section**
-![Resume Screenshot](#)
+<img src="./images/DeployedResume.png" alt="Resume" width="400"/>
 
 *(Replace `#` with actual image paths or links)*
 
